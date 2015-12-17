@@ -1,0 +1,28 @@
+name: NicolasMorinPhotography
+favicon: null
+layout_spectrum: 0.5874617092777044
+typography_spectrum: 0.6730528899934143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.80511216330342
+  lightness: 0.770592104177922
+  saturation: 0.10785489273257554
+  rhythmicContrast: 0.9418613347224891
+purpose: []
